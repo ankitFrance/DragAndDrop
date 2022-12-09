@@ -1,0 +1,29 @@
+.imagebox{
+    background-image: url(car.jpg);
+    height:140px;
+    width: 140px;
+    align-items: center;
+    position: absolute;
+    cursor: pointer;
+
+}
+.whitebox{
+    height:150px;
+    width: 150px;
+    background-color: rgb(227, 172, 70);
+    margin: 10px;
+    display: inline-block;
+    margin-top: 100px;
+    border: 4px solid black;
+}
+
+.dotted{
+    border: 4px dotted rgb(45, 181, 47);
+}
+
+.plane{
+    border: 4px solid rgb(223, 214, 32);
+}
+.nothing{
+    display :none;
+}
